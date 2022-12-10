@@ -7,3 +7,6 @@ FemiBot es un bot creado para ayudar a las mujeres con temas de educacion sexual
 * Telegram -> Aplicacion de mensajeria
 * Python -> Lenguaje de programacion
 * Aiogram -> Libreria para la creacion de bot en Telegram con control de asincronia
+
+## Preview
+![img.png](img.png)
